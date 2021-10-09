@@ -1,0 +1,1 @@
+need config 3 modules in idea
